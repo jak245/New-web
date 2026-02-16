@@ -259,13 +259,7 @@
 
                 <!-- Placeholder when no photos -->
                 <div id="photo-placeholder" class="text-center py-12">
-                    <div class="text-5xl mb-3">📸</div>
-                    <p class="text-xl text-gray-600 font-body mb-2">
-                        Upload your beautiful photos!
-                    </p>
-                    <p class="text-base text-gray-500 font-body">
-                        Tap "Choose Photos" above
-                    </p>
+               
                 </div>
 <a href="https://github.com/jak245/love.website/blob/main/WhatsApp%20Image%202026-02-16%20at%2012.20.00%20AM%20(1).jpeg">
   <img src="WhatsApp Image 2026-02-16 at 12.20.00 AM (1).jpeg" alt="View Project on GitHub">
