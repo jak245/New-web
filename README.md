@@ -242,13 +242,7 @@
                 <!-- Photo Upload Section -->
  
               <div class="bg-gradient-to-r from-pink-100 to-purple-100 rounded-3xl p-6 mb-8 border-2 border-pink-200">
-                    <div class="text-center mb-4">
-                        <svg class="w-12 h-12 mx-auto mb-3 text-pink-600" fill="currentColor" viewBox="0 0 24 24">
-                            <path d="M21 19V5c0-1.1-.9-2-2-2H5c-1.1 0-2 .9-2 2v14c0 1.1.9 2 2 2h14c1.1 0 2-.9 2-2zM8.5 13.5l2.5 3.01L14.5 12l4.5 6H5l3.5-4.5z"/>
-                        </svg>
-
-
-                    </div>
+                  
       
  <div class="flex justify-center">
                         <input type="file" id="photo-upload" accept="image/*" multiple class="hidden">             
